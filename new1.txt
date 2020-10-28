@@ -1,0 +1,4 @@
+test du jour
+mercredi 28 octobre
+tentative de basculer de git a github
+et inversement
